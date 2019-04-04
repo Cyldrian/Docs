@@ -1,4 +1,2 @@
-# Docs
-
-project for testing documentation in online
+# Initial page
 
